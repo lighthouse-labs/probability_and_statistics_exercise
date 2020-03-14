@@ -1,2 +1,8 @@
-# probability_and_statistics_exercise
-Exercises for probability and statistics in the bootcamp
+# Exercises for Probability and Statistics
+
+We hace 3 files in the repository:
+
+- MontyHall Challenge
+- Exercises for hypothesis testing
+- Exercises for CLT
+
