@@ -1,6 +1,6 @@
 # Exercises for Probability and Statistics
 
-We hace 3 files in the repository:
+We have 3 files in the repository:
 
 - MontyHall Challenge
 - Exercises for hypothesis testing
